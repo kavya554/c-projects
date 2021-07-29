@@ -1,2 +1,2 @@
 # c-projects
-simple c projects
+ c projects
